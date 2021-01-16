@@ -1,5 +1,5 @@
 # Valentine's Garage - Temp Website Template 
-## [Visit Website]('https://www.valentinesgarage.com/')
+[Visit Website]("https://www.valentinesgarage.com/")
 
 # Description 
 This is a website custom built for Valentine's Garage. It is a placeholder for the permanent website currently in production.
